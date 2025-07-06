@@ -1,6 +1,6 @@
 {
     "name": "happytodev/authentik",
-    "description": "A package for TempestPHP to handle OAuth authentication with providers like GitHub, Google, and X.",
+    "description": "A package for TempestPHP to handle OAuth authentication with providers like GitHub, Amazon and others to come.",
     "type": "library",
     "autoload": {
         "psr-4": {
